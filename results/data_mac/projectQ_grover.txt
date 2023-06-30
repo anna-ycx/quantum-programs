@@ -1,0 +1,44 @@
+for 2 qubits:
+took 0.0019850730895996094s, with x'=11 and 1 iterations, found=True
+for 3 qubits:
+took 0.007302045822143555s, with x'=010 and 2 iterations, found=True
+for 4 qubits:
+took 0.010498046875s, with x'=1101 and 3 iterations, found=True
+for 5 qubits:
+took 0.024176836013793945s, with x'=10001 and 4 iterations, found=True
+for 6 qubits:
+took 0.03976893424987793s, with x'=101001 and 6 iterations, found=True
+for 7 qubits:
+took 0.04605507850646973s, with x'=1111010 and 8 iterations, found=True
+for 8 qubits:
+took 0.07513284683227539s, with x'=11011101 and 12 iterations, found=True
+for 9 qubits:
+took 0.1130380630493164s, with x'=110111101 and 17 iterations, found=True
+for 10 qubits:
+took 0.28597187995910645s, with x'=1111100000 and 25 iterations, found=True
+for 11 qubits:
+took 0.32793593406677246s, with x'=11100110111 and 35 iterations, found=True
+for 12 qubits:
+took 0.5835230350494385s, with x'=010110110111 and 50 iterations, found=True
+for 13 qubits:
+took 1.1528711318969727s, with x'=1000110100111 and 71 iterations, found=True
+for 14 qubits:
+took 2.360383987426758s, with x'=10100100000110 and 100 iterations, found=True
+for 15 qubits:
+took 3.9500460624694824s, with x'=001100010101101 and 142 iterations, found=True
+for 16 qubits
+:took 8.11563515663147s, with x'=0001100001001111 and 201 iterations, found=True
+for 17 qubits:
+took 15.151004791259766s, with x'=11101111010111101 and 284 iterations, found=True
+for 18 qubits:
+took 41.66745924949646s, with x'=011010010011111101 and 402 iterations, found=True
+for 19 qubits:
+took 129.05423617362976s, with x'=1110000101010001000 and 568 iterations, found=True
+for 20 qubits:
+took 355.58375906944275s, with x'=10100011100010010100 and 804 iterations, found=True
+for 21 qubits:
+took 1026.8318729400635s, with x'=011110010000001011000 and 1137 iterations, found=True
+for 22 qubits:
+took 3019.930579185486s, with x'=1101000001001010011100 and 1608 iterations, found=True
+#for 23 qubits:
+#'Timed Out'

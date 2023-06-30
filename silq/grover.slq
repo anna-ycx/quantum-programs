@@ -1,0 +1,28 @@
+def diffuser[n:!ℕ](qubits:uint[n])mfree: uint[n] {
+    for i in [0..n) { qubits[i] := H(qubits[i]); }
+    if qubits != 0 { phase(π); }
+    for i in [0..n) { qubits[i] := H(qubits[i]); }    
+    return qubits;
+}
+
+def grover[n:!ℕ](f:const uint[n] !→ lifted 𝔹): !ℕ {
+    qubits := 0:uint[n];
+    for i in [0..n) { qubits[i] := H(qubits[i]); }
+    for i in [0..floor(π/4 * sqrt(2^n))) {
+        if f(qubits) { phase(π); }
+        qubits := diffuser(qubits);
+    }
+    return measure(qubits) as !ℕ;
+}
+
+def main() {
+  xprime := [1, 1];
+  def oracle[n:!ℕ](x:uint[n])lifted:𝔹 { 
+    for i in [0..n) {
+      if (x[i] != xprime[i]) { return 0:𝔹; }
+    }
+    return 1:𝔹;
+  }
+  x := grover(oracle[2]);
+  return x;
+}

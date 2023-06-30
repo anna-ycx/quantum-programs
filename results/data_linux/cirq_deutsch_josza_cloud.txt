@@ -1,0 +1,52 @@
+for 2 qubits:
+took 0.006361961364746094s
+for 3 qubits:
+took 0.002589702606201172s
+for 4 qubits:
+took 0.003242015838623047s
+for 5 qubits:
+took 0.0036079883575439453s
+for 6 qubits:
+took 0.0046045780181884766s
+for 7 qubits:
+took 0.007691621780395508s
+for 8 qubits:
+took 0.008823394775390625s
+for 9 qubits:
+took 0.009056806564331055s
+for 10 qubits:
+took 0.013949871063232422s
+for 11 qubits:
+took 0.019641399383544922s
+for 12 qubits:
+took 0.02966618537902832s
+for 13 qubits:
+took 0.1698458194732666s
+for 14 qubits:
+took 0.10092568397521973s
+for 15 qubits:
+took 0.17275714874267578s
+for 16 qubits:
+took 0.3669567108154297s
+for 17 qubits:
+took 0.8322436809539795s
+for 18 qubits:
+took 2.2746691703796387s
+for 19 qubits:
+took 4.216168403625488s
+for 20 qubits:
+took 6.874606609344482s
+for 21 qubits:
+took 14.541422843933105s
+for 22 qubits:
+took 30.125838041305542s
+for 23 qubits:
+took 60.12348675727844s
+for 24 qubits:
+took 121.35111117362976s
+for 25 qubits:
+took 245.0753436088562s
+for 26 qubits:
+took 499.6425471305847s
+#for 27 qubits:
+#Your session crashed after using all available RAM. If you are interested in access to high-RAM runtimes, you may want to check out Colab Pro.

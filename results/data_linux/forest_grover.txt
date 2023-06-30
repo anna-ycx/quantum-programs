@@ -1,0 +1,80 @@
+for 2 qubits:
+took 0.043318748474121094s, with x'=[1, 0]
+for 3 qubits:
+took 0.04126143455505371s, with x'=[0, 0, 0]
+for 4 qubits:
+took 0.036383867263793945s, with x'=[1, 0, 1, 0]
+for 5 qubits:
+took 0.04564356803894043s, with x'=[0, 1, 1, 0, 1]
+for 6 qubits:
+took 0.05803656578063965s, with x'=[1, 0, 1, 0, 1, 1]
+for 7 qubits:
+took 0.09624862670898438s, with x'=[0, 1, 1, 0, 0, 1, 1]
+for 8 qubits:
+took 0.3296389579772949s, with x'=[0, 0, 0, 0, 0, 0, 1, 0]
+for 9 qubits:
+took 1.4299635887145996s, with x'=[0, 0, 1, 0, 0, 1, 1, 1, 1]
+#for 10 qubits:
+#timed out
+#for 11 qubits:
+#timed out
+#for 12 qubits:
+#timed out
+#for 13 qubits:
+#timed out
+#for 14 qubits:
+#timed out
+#for 15 qubits:
+#Server disconnected without sending a response.
+#for 16 qubits:
+#Server disconnected without sending a response.
+#for 17 qubits:
+#Server disconnected without sending a response.
+#for 18 qubits:
+#Server disconnected without sending a response.
+#for 19 qubits:
+#Server disconnected without sending a response.
+#for 20 qubits:
+#Server disconnected without sending a response.
+#for 21 qubits:
+#Server disconnected without sending a response.
+#for 22 qubits:
+#Server disconnected without sending a response.
+#for 23 qubits:
+#timed out
+#for 24 qubits:
+#timed out
+#for 25 qubits:
+#timed out
+#for 26 qubits:
+#timed out
+#for 27 qubits:
+#timed out
+#for 28 qubits:
+#timed out
+#for 29 qubits:
+#timed out
+#for 30 qubits:
+#timed out
+#for 31 qubits:
+#timed out
+#for 32 qubits:
+#timed out
+#for 33 qubits:
+#[Errno 111] Connection refused
+#for 34 qubits:
+#[Errno 111] Connection refused
+#for 35 qubits:
+#[Errno 111] Connection refused
+#for 36 qubits:
+#[Errno 111] Connection refused
+#for 37 qubits:
+#[Errno 111] Connection refused
+#for 38 qubits:
+#[Errno 111] Connection refused
+#for 39 qubits:
+#[Errno 111] Connection refused
+#for 40 qubits:
+#[Errno 111] Connection refused
+#for 41 qubits:
+#[Errno 111] Connection refused

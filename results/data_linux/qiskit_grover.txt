@@ -1,0 +1,44 @@
+for 2 qubits:
+took 0.030806779861450195s, with x'=00 and 1 iterations, found=True
+for 3 qubits:
+took 0.02327418327331543s, with x'=110 and 2 iterations, found=True
+for 4 qubits:
+took 0.0257108211517334s, with x'=1010 and 3 iterations, found=True
+for 5 qubits:
+took 0.03976559638977051s, with x'=10100 and 4 iterations, found=True
+for 6 qubits:
+took 0.0541071891784668s, with x'=111011 and 6 iterations, found=True
+for 7 qubits:
+took 0.0746614933013916s, with x'=1011001 and 8 iterations, found=True
+for 8 qubits:
+took 0.12584304809570312s, with x'=01000010 and 12 iterations, found=True
+for 9 qubits:
+took 0.18509650230407715s, with x'=010110000 and 17 iterations, found=True
+for 10 qubits:
+took 0.29052019119262695s, with x'=0101110000 and 25 iterations, found=True
+for 11 qubits:
+took 0.5000441074371338s, with x'=01100010010 and 35 iterations, found=True
+for 12 qubits:
+took 0.646733283996582s, with x'=111110001010 and 50 iterations, found=True
+for 13 qubits:
+took 1.0227861404418945s, with x'=1110000101010 and 71 iterations, found=True
+for 14 qubits:
+took 1.7590208053588867s, with x'=01101101001001 and 100 iterations, found=True
+for 15 qubits:
+took 11.485674381256104s, with x'=111000011010111 and 142 iterations, found=True
+for 16 qubits:
+took 25.279449939727783s, with x'=1100110111010010 and 201 iterations, found=True
+for 17 qubits:
+took 52.31090474128723s, with x'=01000001001110011 and 284 iterations, found=True
+for 18 qubits:
+took 120.05976366996765s, with x'=110001010101111111 and 402 iterations, found=True
+for 19 qubits:
+took 227.74841952323914s, with x'=0111110111010110001 and 568 iterations, found=True
+for 20 qubits:
+took 446.95228028297424s, with x'=00101001100000000000 and 804 iterations, found=True
+for 21 qubits:
+took 858.6638317108154s, with x'=110011010111000100111 and 1137 iterations, found=True
+for 22 qubits:
+took 1843.7649912834167s, with x'=1100101101010011010101 and 1608 iterations, found=True
+for 23 qubits:
+took 5065.050114154816s, with x'=10111110011111001011001 and 2274 iterations, found=True

@@ -1,0 +1,54 @@
+for 2 qubits:
+took 0.09423184394836426s
+for 3 qubits:
+took 0.00849008560180664s
+for 4 qubits:
+took 0.0073201656341552734s
+for 5 qubits:
+took 0.008686304092407227s
+for 6 qubits:
+took 0.012142181396484375s
+for 7 qubits:
+took 0.010406017303466797s
+for 8 qubits:
+took 0.010657548904418945s
+for 9 qubits:
+took 0.011563301086425781s
+for 10 qubits:
+took 0.013015985488891602s
+for 11 qubits:
+took 0.015048980712890625s
+for 12 qubits:
+took 0.014208078384399414s
+for 13 qubits:
+took 0.015062332153320312s
+for 14 qubits:
+took 0.018088340759277344s
+for 15 qubits:
+took 0.03154778480529785s
+for 16 qubits:
+took 0.019378662109375s
+for 17 qubits:
+took 0.02315211296081543s
+for 18 qubits:
+took 0.0317842960357666s
+for 19 qubits:
+took 0.051345109939575195s
+for 20 qubits:
+took 0.12021160125732422s
+for 21 qubits:
+took 0.15576529502868652s
+for 22 qubits:
+took 0.35658979415893555s
+for 23 qubits:
+took 0.5398097038269043s
+for 24 qubits:
+took 1.1307132244110107s
+for 25 qubits:
+took 2.352297067642212s
+for 26 qubits:
+took 4.946257591247559s
+for 27 qubits:
+took 9.633567333221436s
+#for 28 qubits:
+#The kernel for deutsch-josza.ipynb appears to have died. It will restart automatically.

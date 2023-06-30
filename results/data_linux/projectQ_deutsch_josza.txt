@@ -1,0 +1,54 @@
+for 2 qubits:
+took 0.004534721374511719s
+for 3 qubits:
+took 0.22658824920654297s
+for 4 qubits:
+took 0.21776413917541504s
+for 5 qubits:
+took 0.5276362895965576s
+for 6 qubits:
+took 0.8340237140655518s
+for 7 qubits:
+took 0.9727609157562256s
+for 8 qubits:
+took 2.0148298740386963s
+for 9 qubits:
+took 1.2207872867584229s
+for 10 qubits:
+took 1.9353609085083008s
+for 11 qubits:
+took 0.22402596473693848s
+for 12 qubits:
+took 1.3671329021453857s
+for 13 qubits:
+took 0.9117450714111328s
+for 14 qubits:
+took 1.572098970413208s
+for 15 qubits:
+took 1.4365360736846924s
+for 16 qubits:
+took 2.530991554260254s
+for 17 qubits:
+took 2.559983968734741s
+for 18 qubits:
+took 2.305572271347046s
+for 19 qubits:
+took 2.894122838973999s
+for 20 qubits:
+took 3.9705657958984375s
+for 21 qubits:
+took 2.9553279876708984s
+for 22 qubits:
+took 4.622978448867798s
+for 23 qubits:
+took 5.272955894470215s
+for 24 qubits:
+took 5.234505653381348s
+for 25 qubits:
+took 8.245989799499512s
+for 26 qubits:
+took 12.181386709213257s
+for 27 qubits:
+took 25.13633108139038s
+#for 28 qubits:
+#Killed

@@ -1,0 +1,60 @@
+for 3 qubits:
+took 0.0017800331115722656s
+for 4 qubits:
+took 0.001402139663696289s
+for 5 qubits:
+took 0.0018148422241210938s
+for 6 qubits:
+took 0.0026988983154296875s
+for 7 qubits:
+took 0.002588987350463867s
+for 8 qubits:
+took 0.003367900848388672s
+for 9 qubits:
+took 0.0036830902099609375s
+for 10 qubits:
+took 0.004191875457763672s
+for 11 qubits:
+took 0.004888057708740234s
+for 12 qubits:
+took 0.00582122802734375s
+for 13 qubits:
+took 0.005810976028442383s
+for 14 qubits:
+took 0.006951808929443359s
+for 15 qubits:
+took 0.0075321197509765625s
+for 16 qubits:
+took 0.00969696044921875s
+for 17 qubits:
+took 0.014191865921020508s
+for 18 qubits:
+took 0.021537065505981445s
+for 19 qubits:
+took 0.03179192543029785s
+for 20 qubits:
+took 0.05437183380126953s
+for 21 qubits:
+took 0.11548113822937012s
+for 22 qubits:
+took 0.21318674087524414s
+for 23 qubits:
+took 0.3870229721069336s
+for 24 qubits:
+took 0.7207090854644775s
+for 25 qubits:
+took 1.5662331581115723s
+for 26 qubits:
+took 3.185256242752075s
+for 27 qubits:
+took 7.065284252166748s
+for 28 qubits:
+took 13.627676963806152s
+for 29 qubits:
+took 55.41550421714783s
+for 30 qubits:
+took 150.50889134407043s
+for 31 qubits:
+took 307.92254114151s
+#for 32 qubits:
+#[1]    55152 killed     /opt/homebrew/Caskroom/miniforge/base/envs/project/bin/python 

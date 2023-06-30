@@ -1,0 +1,24 @@
+for 2 qubits:
+took 0.021652698516845703s
+for 3 qubits:
+took 0.04351210594177246s
+for 4 qubits:
+took 0.10492610931396484s
+for 5 qubits:
+took 0.28341150283813477s
+for 6 qubits:
+took 0.9776642322540283s
+for 7 qubits:
+took 3.4134647846221924s
+for 8 qubits:
+took 14.578280210494995s
+for 9 qubits:
+took 47.6867995262146s
+for 10 qubits:
+took 146.22092533111572s
+for 11 qubits:
+took 427.0371401309967s
+for 12 qubits:
+took 1204.712387561798s
+for 13 qubits:
+took 3214.6750917434692s

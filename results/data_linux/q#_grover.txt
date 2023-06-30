@@ -1,0 +1,46 @@
+for 2 qubits:
+took 0.4559299945831299s, with x'=[1, 1] and 1 iterations, found=False
+for 3 qubits:
+took 0.007334470748901367s, with x'=[0, 0, 1] and 2 iterations, found=False
+for 4 qubits:
+took 0.0057675838470458984s, with x'=[1, 1, 1, 1] and 3 iterations, found=False
+for 5 qubits:
+took 0.006014823913574219s, with x'=[0, 1, 1, 0, 0] and 4 iterations, found=False
+for 6 qubits:
+took 0.012694120407104492s, with x'=[0, 0, 1, 0, 0, 1] and 6 iterations, found=False
+for 7 qubits:
+took 0.009309768676757812s, with x'=[0, 0, 1, 0, 0, 1, 0] and 8 iterations, found=False
+for 8 qubits:
+took 0.011769771575927734s, with x'=[0, 1, 0, 1, 0, 0, 1, 0] and 12 iterations, found=False
+for 9 qubits:
+took 0.012842178344726562s, with x'=[1, 1, 1, 0, 0, 1, 1, 1, 1] and 17 iterations, found=False
+for 10 qubits:
+took 0.02950000762939453s, with x'=[0, 0, 0, 0, 0, 1, 0, 1, 1, 0] and 25 iterations, found=False
+for 11 qubits:
+took 0.0349125862121582s, with x'=[1, 0, 1, 0, 0, 0, 1, 1, 0, 1, 0] and 35 iterations, found=False
+for 12 qubits:
+took 0.058405399322509766s, with x'=[1, 1, 1, 1, 1, 0, 1, 0, 0, 1, 1, 1] and 50 iterations, found=False
+for 13 qubits:
+took 0.11343026161193848s, with x'=[0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 1, 1, 1] and 71 iterations, found=False
+for 14 qubits:
+took 0.16647720336914062s, with x'=[1, 1, 0, 0, 1, 1, 0, 1, 0, 0, 1, 1, 1, 1] and 100 iterations, found=False
+for 15 qubits:
+took 0.41625308990478516s, with x'=[1, 1, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 1, 0, 0] and 142 iterations, found=False
+for 16 qubits:
+took 0.8572273254394531s, with x'=[0, 0, 0, 1, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 1, 1] and 201 iterations, found=False
+for 17 qubits:
+took 1.89028000831604s, with x'=[1, 0, 1, 0, 1, 1, 1, 0, 0, 0, 1, 1, 1, 1, 0, 1, 1] and 284 iterations, found=False
+for 18 qubits:
+took 4.341650724411011s, with x'=[0, 1, 0, 1, 0, 1, 0, 1, 1, 1, 1, 0, 0, 1, 1, 1, 1, 0] and 402 iterations, found=False
+for 19 qubits:
+took 12.29819130897522s, with x'=[0, 1, 1, 1, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0] and 568 iterations, found=False
+for 20 qubits:
+took 27.667819023132324s, with x'=[1, 0, 0, 1, 1, 1, 1, 0, 0, 0, 1, 0, 0, 1, 0, 1, 1, 1, 0, 0] and 804 iterations, found=False
+for 21 qubits:
+took 79.55389547348022s, with x'=[0, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 0, 0, 1, 1, 0, 1, 0, 1] and 1137 iterations, found=False
+for 22 qubits:
+took 241.46028542518616s, with x'=[0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1, 0, 0, 1, 0, 1, 1, 0, 1] and 1608 iterations, found=False
+for 23 qubits:
+took 695.2936294078827s, with x'=[1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0] and 2274 iterations, found=False
+for 24 qubits:
+took 2052.5168635845184s, with x'=[1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 0, 1] and 3216 iterations, found=False

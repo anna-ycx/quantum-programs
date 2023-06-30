@@ -2,3 +2,5 @@ share/
 .DS_Store
 *.png
 etc/
+settings.json
+__pycache__/

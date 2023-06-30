@@ -1,0 +1,16 @@
+def QFT[n:!ℕ](x : int[n])mfree: int[n] {
+  for i in [0..n) {
+      x[i] := H(x[i]);
+      for j in [i+1..n) {
+          if x[j] && x[i] {phase(2*π * 2^(i - j - 1));}
+      }
+  }
+  for i in [0..n div 2) { 
+    (x[i], x[n - i - 1]) := (x[n - i - 1], x[i]);
+  }
+  return x;
+}
+
+def main() {
+  return QFT(0:int[4]);
+}

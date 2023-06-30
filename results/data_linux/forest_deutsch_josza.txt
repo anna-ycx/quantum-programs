@@ -1,0 +1,56 @@
+for 2 qubits:
+took 0.03177213668823242s
+for 3 qubits:
+took 0.025021791458129883s
+for 4 qubits:
+took 0.023112058639526367s
+for 5 qubits:
+took 0.024381637573242188s
+for 6 qubits:
+took 0.03560805320739746s
+for 7 qubits:
+took 0.022569894790649414s
+for 8 qubits:
+took 0.02225518226623535s
+for 9 qubits:
+took 0.029673337936401367s
+for 10 qubits:
+took 0.023239612579345703s
+for 11 qubits:
+took 0.02639150619506836s
+for 12 qubits:
+took 0.025277137756347656s
+for 13 qubits:
+took 0.030650615692138672s
+for 14 qubits:
+took 0.03028273582458496s
+for 15 qubits:
+took 0.035945892333984375s
+for 16 qubits:
+took 0.047312021255493164s
+for 17 qubits:
+took 0.08072090148925781s
+for 18 qubits:
+took 0.13294076919555664s
+for 19 qubits:
+took 0.32309699058532715s
+for 20 qubits:
+took 0.558596134185791s
+for 21 qubits:
+took 1.1032004356384277s
+for 22 qubits:
+took 1.9954540729522705s
+for 23 qubits:
+took 4.472203016281128s
+for 24 qubits:
+took 8.02470850944519s
+#for 25 qubits:
+#timed out
+#for 26 qubits:
+#timed out
+#for 27 qubits:
+#timed out
+#for 28 qubits:
+#timed out
+#for 29 qubits:
+#Server disconnected without sending a response.

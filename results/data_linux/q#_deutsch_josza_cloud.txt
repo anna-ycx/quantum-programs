@@ -1,0 +1,59 @@
+for 2 qubits:
+took 0.012227773666381836s
+for 3 qubits:
+took 0.006045818328857422s
+for 4 qubits:
+took 0.005327463150024414s
+for 5 qubits:
+took 0.0054931640625s
+for 6 qubits:
+took 0.005384206771850586s
+for 7 qubits:
+took 0.005633354187011719s
+for 8 qubits:
+took 0.005009889602661133s
+for 9 qubits:
+took 0.006155252456665039s
+for 10 qubits:
+took 0.005155086517333984s
+for 11 qubits:
+took 0.0061075687408447266s
+for 12 qubits:
+took 0.013256549835205078s
+for 13 qubits:
+took 0.010367631912231445s
+for 14 qubits:
+took 0.010204076766967773s
+for 15 qubits:
+took 0.014970541000366211s
+for 16 qubits:
+took 0.023546934127807617s
+for 17 qubits:
+took 0.04468131065368652s
+for 18 qubits:
+took 0.24668526649475098s
+for 19 qubits:
+took 0.4029536247253418s
+for 20 qubits:
+took 0.5400760173797607s
+for 21 qubits:
+took 0.9112346172332764s
+for 22 qubits:
+took 2.1629178524017334s
+for 23 qubits:
+took 4.691012382507324s
+for 24 qubits:
+took 8.320611000061035s
+for 25 qubits:
+took 17.418680429458618s
+for 26 qubits:
+took 37.09497141838074s
+for 27 qubits:
+took 69.55007648468018s
+for 28 qubits:
+took 141.94018077850342s
+for 29 qubits:
+took 289.16371607780457s
+#for 30 qubits:
+#terminate called after throwing an instance of 'std::bad_alloc'
+#  what():  std::bad_alloc

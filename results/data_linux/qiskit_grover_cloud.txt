@@ -1,0 +1,48 @@
+for 2 qubits:
+took 0.2709949016571045s, with x'=00 and 1 iterations, found=True
+for 3 qubits:
+took 0.03797721862792969s, with x'=101 and 2 iterations, found=True
+for 4 qubits:
+took 0.0631868839263916s, with x'=1110 and 3 iterations, found=True
+for 5 qubits:
+took 0.0946505069732666s, with x'=10111 and 4 iterations, found=True
+for 6 qubits:
+took 0.15317893028259277s, with x'=100000 and 6 iterations, found=True
+for 7 qubits:
+took 0.230910062789917s, with x'=0011001 and 8 iterations, found=True
+for 8 qubits:
+took 0.4801487922668457s, with x'=10000101 and 12 iterations, found=True
+for 9 qubits:
+took 0.6311702728271484s, with x'=110000111 and 17 iterations, found=True
+for 10 qubits:
+took 1.036689281463623s, with x'=0000111011 and 25 iterations, found=True
+for 11 qubits:
+took 1.4427227973937988s, with x'=10010011101 and 35 iterations, found=True
+for 12 qubits:
+took 2.907867193222046s, with x'=010110011011 and 50 iterations, found=True
+for 13 qubits:
+took 3.669734239578247s, with x'=1000010101111 and 71 iterations, found=True
+for 14 qubits:
+took 6.2632176876068115s, with x'=10010100000011 and 100 iterations, found=True
+for 15 qubits:
+took 21.575720071792603s, with x'=011011101001000 and 142 iterations, found=True
+for 16 qubits:
+took 34.243115186691284s, with x'=1101111001111001 and 201 iterations, found=True
+for 17 qubits:
+took 51.952552795410156s, with x'=10001010001010101 and 284 iterations, found=True
+for 18 qubits:
+took 83.43040657043457s, with x'=111010001101011000 and 402 iterations, found=True
+for 19 qubits:
+took 134.3739356994629s, with x'=1101100110010001100 and 568 iterations, found=True
+for 20 qubits:
+took 233.41819787025452s, with x'=01010011111111011111 and 804 iterations, found=True
+for 21 qubits:
+took 468.5680139064789s, with x'=101010000001100011001 and 1137 iterations, found=True
+for 22 qubits:
+took 1004.6424403190613s, with x'=1101110011010011101000 and 1608 iterations, found=True
+for 23 qubits:
+took 2244.879467010498s, with x'=10110010000101101100010 and 2274 iterations, found=True
+for 24 qubits:
+took 6183.701947450638s, with x'=100010000111100000000011 and 3216 iterations, found=True
+#for 25 qubits:
+#kernel dies

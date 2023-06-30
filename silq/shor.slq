@@ -1,0 +1,19 @@
+def shor(): !ℕ x !ℕ {
+    qubits := 0:uint[3];
+    x := 0:uint[2];
+    for i in [0..3) { 
+        qubits[i] := H(qubits[i]); 
+    }
+    if qubits[2] == 1 { x[0] := X(x[0]); }
+    if qubits[2] == 1 { x[1] := X(x[1]); }
+    qubits[1] := H(qubits[1]);
+    if qubits[2] { phase(π / 2); }
+    qubits[0] := H(qubits[0]);
+    if qubits[1] { phase(π / 4); }
+    if qubits[0] { phase(π / 2); }
+    return (measure(qubits) as !ℕ, measure(x) as !ℕ);
+}
+
+def main()  {
+    return shor()[0];
+}

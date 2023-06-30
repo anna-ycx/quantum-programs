@@ -1,0 +1,46 @@
+for 2 qubits:
+took 0.0028879642486572266s, with x'=01 and 1 iterations, found=True
+for 3 qubits:
+took 0.0026988983154296875s, with x'=100 and 2 iterations, found=True
+for 4 qubits:
+took 0.00463104248046875s, with x'=1001 and 3 iterations, found=True
+for 5 qubits:
+took 0.006739377975463867s, with x'=00110 and 4 iterations, found=True
+for 6 qubits:
+took 0.011780738830566406s, with x'=010000 and 6 iterations, found=True
+for 7 qubits:
+took 0.015414953231811523s, with x'=0111110 and 8 iterations, found=True
+for 8 qubits:
+took 0.028760910034179688s, with x'=00101010 and 12 iterations, found=True
+for 9 qubits:
+took 0.04765009880065918s, with x'=101100000 and 17 iterations, found=True
+for 10 qubits:
+took 0.0742340087890625s, with x'=1010001011 and 25 iterations, found=True
+for 11 qubits:
+took 0.1257610321044922s, with x'=11100010000 and 35 iterations, found=True
+for 12 qubits:
+took 0.2171621322631836s, with x'=000101100010 and 50 iterations, found=True
+for 13 qubits:
+took 0.39429402351379395s, with x'=1110000010100 and 71 iterations, found=True
+for 14 qubits:
+took 0.6704540252685547s, with x'=01111110011111 and 100 iterations, found=True
+for 15 qubits:
+took 1.4932920932769775s, with x'=000010010011111 and 142 iterations, found=True
+for 16 qubits:
+took 3.5856988430023193s, with x'=0101110100001011 and 201 iterations, found=True
+for 17 qubits:
+took 9.404536008834839s, with x'=01001001111001100 and 284 iterations, found=True
+for 18 qubits:
+took 24.237371683120728s, with x'=110011100111101001 and 402 iterations, found=True
+for 19 qubits:
+took 68.96249103546143s, with x'=0101110011101011010 and 568 iterations, found=True
+for 20 qubits:
+took 203.47385907173157s, with x'=10011101110001011010 and 804 iterations, found=True
+for 21 qubits:
+took 596.7670929431915s, with x'=110011101011110010101 and 1137 iterations, found=True
+for 22 qubits:
+took 1798.8310778141022s, with x'=1111010101010000011110 and 1608 iterations, found=True
+for 23 qubits:
+took 5823.68640422821s, with x'=10111110110001001000100 and 2274 iterations, found=True
+#for 24 qubits:
+#'Timed Out'
