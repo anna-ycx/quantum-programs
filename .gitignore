@@ -4,3 +4,4 @@ share/
 etc/
 settings.json
 __pycache__/
+obj/
